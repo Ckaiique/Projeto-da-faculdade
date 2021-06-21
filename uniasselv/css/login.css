@@ -1,0 +1,105 @@
+/* geral */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+  font-family: Helvetica, sans-serif;
+  color: #000000;
+  border:none;
+  
+
+  
+  
+}
+
+input, label {
+  display: block;
+  outline: none;
+  width: 100%;
+}
+
+
+
+body {
+  padding-top: 5vh;
+  text-align:center;
+  background-color: lightcyan;
+
+  
+ 
+}
+/*
+
+
+/* form */
+#main-container {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:cadetblue;
+  border-radius: 20px;
+  padding: 25px;
+  margin-top:50px;
+ 
+  
+}
+
+#main-container h1 {
+  margin-bottom: 25px;
+  font-size: 1.6rem;
+}
+
+
+  
+form {
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+label {
+  font-weight: bold;
+  margin: 3px;
+}
+
+input {
+  border-bottom: 2px solid #323232;
+  padding: 10px;
+  font-size: .9rem;
+  margin-bottom: 40px;
+}
+
+input:focus {
+  border-color: #4bc2bc;
+}
+
+input[type="submit"] {
+  background-color: #73addd;
+  color: black;
+  border: none;
+  border-radius: 8px;
+  height:35px;
+  cursor: pointer;
+  font-style: bold;
+  width:  60px;
+  margin-left: 140px;
+  
+}
+
+a{
+  border-radius: 30px;
+  color:black;
+  font-weight: bold;
+  text-align: center;
+  text-decoration:none;
+  
+}
+    
+  
+  
+
+
+  
+
+    
+
+

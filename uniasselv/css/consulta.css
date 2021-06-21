@@ -1,0 +1,102 @@
+*{
+   font-family:helvetica;
+   margin:0;
+   padding:0;
+
+
+}
+
+input{
+    margin-top:50px;
+    text-align:center;
+    height:25px;
+}
+.half-box{
+    width:350px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:cadetblue;
+    border-radius: 20px;
+    padding: 25px;
+    margin-top:40px;
+    font-style:bolder;
+    text-align:center;
+    
+    
+}
+
+
+ body{
+     background-color:lightcyan;
+ }  
+   
+    
+    
+    
+
+.imagem{
+    margin-left: auto;
+    margin-right:auto;
+    text-align:center;
+    width:500px;
+    height: 180px;
+
+    
+}
+input[type="submit"]{
+  background-color: #73addd;
+  color: black;
+  border-radius: 5px;
+  height: 30px;
+  width: 55px;
+  cursor: pointer;
+ 
+}
+.deslogar{
+    text-align:right ;
+    margin-right: 50px;
+    
+   
+}
+
+.relatorio{
+    width:350;
+    height:450px;
+    margin-right: auto;
+    margin-left:900px;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top:10px;
+    
+    
+}
+.formulario {
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+
+ label.form1{
+     display:inline-block;
+     width: 90px;
+ }
+    
+input.a1{
+    width:200px;
+    margin-top: 10px;
+    height:25px;
+
+}
+
+.titulo{
+    margin-top:20px;
+}
+
+    
+
+
+
+
+
+   

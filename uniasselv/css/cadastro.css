@@ -1,0 +1,232 @@
+*/{
+    margin: 0;
+    padding: 0;
+    font-family:Arial;
+
+}
+
+.OS {
+  
+    width:500px;
+    height:550px;
+    margin-left: 200px;
+    background-color:cadetblue;
+    border-radius: 20px;
+    padding: 25px;
+    margin-top:50px;
+    font-style:bolder;
+    font-size: 20px;   
+}
+         
+ h2{
+     text-align:center;
+ }   
+    
+
+input[type="submit"]{
+    background-color: #73addd;
+    color: black;
+    
+    border-radius: 5px;
+    height: 30px;
+    width: 55px;
+    cursor: pointer;
+
+    
+}
+.nome{
+    
+    display: flex;
+    justify-content: space-between;
+    margin-top:50px;
+    height: 30px;
+   
+}
+
+
+.CPF{
+    justify-content: space-between;
+    display: flex;
+    margin-top:10px;
+    height: 30px;
+    
+    
+ 
+    
+}
+
+
+.endereço{
+    justify-content: space-between;
+    display: flex;
+    margin-top:10px;
+    height: 30px;
+    
+}
+ 
+.marca{
+    display:flex;
+    justify-content: space-between;
+    margin-top:10px;
+    height: 30px;
+   
+}
+.tecnico{
+    display:flex;
+    justify-content: space-between;
+    margin-top:10px;
+    height: 30px;
+    
+}
+.data{
+    display:flex;
+    justify-content: space-between;
+    margin-top:10px;
+    height: 30px;
+    
+}
+.valor{
+    display:flex;
+    justify-content: space-between;
+    margin-top:10px;
+    height: 30px;
+
+}
+    
+.botao{
+    text-align:center;
+    margin-top:30px;
+    
+}
+
+
+button{
+    background-color:#73addd;
+    height: 30px;
+    width:55px;
+    cursor: pointer;
+    color: black;
+    border-radius: 5px;
+    margin-top: 25px ;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+body{
+    background-color:lightcyan;
+}
+
+.US{
+    margin-left:900px;
+    margin-top:-620px;
+    background-color:cadetblue ;
+    width: 400px;
+    height: 80px;
+    border-radius:15px;
+    font-size: 20px;
+    font-style: bold;
+    
+    
+   
+}
+.consultar3{
+    margin-top: 25px;
+    margin-left: 30px;
+    height: 29px;
+    
+}
+.cpf1{
+    margin-left: 18px;
+}
+
+a.sair{
+    margin-right:auto ;
+
+}
+    
+.formulario {
+    text-align: center;
+}
+
+.relatorio{
+    width:350;
+    height:450px;
+    margin-right: auto;
+    margin-left:900px;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top:10px;
+    
+    
+}
+
+
+
+ label.form1{
+     display:inline-block;
+     width: 90px;
+ }
+    
+input.a1{
+    width:200px;
+    margin-top: 7px;
+    height:25px;
+
+}    
+.editar{
+   
+    width:35px;
+    margin-right:auto;
+    margin-left: auto;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+
+
+
+
